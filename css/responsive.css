@@ -1,0 +1,1425 @@
+@media (min-width:0px) and (max-width:320px) {
+	.mobile{display: block;}
+	.destop{display: none !important;}
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+#header_wrapper {
+	height: 43px;
+background:#000;
+padding: 0;
+    padding-top: 0px;
+padding-top: 6px;
+}
+#nav-toggle {
+	margin: 0;
+}
+
+#adults {
+	margin-bottom: 19px;
+}
+
+#mycarousel4 {
+
+	display: none;
+
+}
+.captiont {
+	/* top: 12%; */
+}
+.captiont h1 span {
+
+	font-size: 65px;
+	
+}
+
+.logo img {
+    max-width: 66px;
+}
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+	.navbar-nav {
+
+	background: #000;
+
+}
+
+.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+	
+
+.gm {
+
+		width:100% !important;
+
+}
+
+.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+
+
+h2, .contact_section h2 {
+
+	font-size: 28px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+@media (max-device-width:320px) and (orientation:landscape) {
+
+	.mobile{display: block;}
+	.destop{display: none !important;}
+	
+	#adults {
+	margin-bottom: 19px;
+}
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+
+
+
+#mycarousel4 {
+
+	display: none;
+
+}
+
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+	.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+.gm {
+
+		width:100% !important;
+
+}
+
+
+
+	.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+
+
+h2, .contact_section h2 {
+
+	font-size: 28px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+
+
+
+
+}
+
+
+
+@media (min-width:320px) and (max-width:480px) {
+	.mobile{display: block;}
+	.destop{display: none !important;}
+
+	.inner_section {
+	padding: 0;
+}
+#header_wrapper {
+	height: 43px;
+background:#000;
+padding: 0;
+    padding-top: 0px;
+padding-top: 6px;
+}
+#nav-toggle {
+	margin: 0;
+}
+.row.topm {
+	margin-top: 10px;
+} 
+.captiont {
+	/* top: 12%; */
+}
+.captiont h1 span {
+
+	font-size: 65px;
+	
+}
+.logo img {
+    max-width: 66px;
+}
+
+#adults {
+	margin-bottom: 19px;
+}
+	
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+
+
+
+#mycarousel4 {
+
+	display: none;
+
+}
+
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	.navbar-nav {
+
+	background: #9F9F9F;
+
+}
+
+	.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	
+
+	
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+	.gm {
+
+		width:100% !important;
+
+}
+
+	
+
+	.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+.contact_section h2 {
+
+	
+
+	
+
+	margin: 0 !important;
+
+}
+
+h2, .contact_section h2 {
+
+	font-size: 18px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+}
+
+
+
+@media (max-device-width:480px) and (orientation:landscape) {
+	.mobile{display: block;}
+	.destop{display: none;}
+	.captiont {
+		/* top: 12%; */
+	}
+	.captiont h1 span {
+	
+		font-size: 65px;
+		
+	}
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+#header_wrapper {
+	height: 43px;
+background:#000;
+padding: 0;
+    padding-top: 0px;
+padding-top: 6px;
+}
+#nav-toggle {
+	margin: 0;
+}
+
+#adults {
+	margin-bottom: 19px;
+}
+
+#mycarousel4 {
+
+	display: none;
+
+}
+
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+	.navbar-nav {
+
+	background: #9F9F9F;
+
+}
+
+.navStyle ul li {
+
+	border-bottom: solid 1px #888888;
+
+}
+
+	.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+	
+
+	.gm {
+
+		width:100% !important;
+
+}
+
+	.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+
+
+h2, .contact_section h2 {
+
+	font-size: 28px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width:360px) and (max-width:640px) {
+
+	.mobile{display: block;}
+	.destop{display: none;}
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+#adults {
+	margin-bottom: 19px;
+}
+
+
+#mycarousel4 {
+
+	display: none;
+
+}
+
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+	.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+	
+
+	.gm {
+
+		width:100% !important;
+
+}
+
+
+
+	.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+
+
+h2, .contact_section h2 {
+
+	font-size: 28px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width:412px) and (max-width:732px) {
+
+	.mobile{display: none;}
+	.destop{display: block;}
+
+	.bnt {
+
+	padding-top: 21px;
+
+}
+
+#adults {
+	margin-bottom: 19px;
+}
+
+#mycarousel4 {
+
+	display: none;
+
+}
+
+
+
+#mycarousel5 {
+
+	display: none;
+
+}
+
+
+
+.explore h2 {
+
+	padding-top: 23px;
+
+	margin-bottom: 20px !important;
+
+}
+
+	
+
+	.final-tiles-gallery .ftg-filters a {
+
+	display: inline-block;
+
+	margin-right: 3px;
+
+	color: #777;
+
+	padding: 0px 10px;
+
+	border: 1px solid #777;
+
+	text-decoration: none;
+
+	outline: 0;
+
+	text-shadow: none;
+
+	box-shadow: none;
+
+	font-size: 15px;
+
+	margin-bottom: 12px;
+
+}
+
+
+
+
+
+
+
+	.service_block {
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.hovereffect h2 {
+
+		font-size: 13px !important;
+
+}
+
+.hovereffect span.info{font-size: 12px !important;}
+
+	#gallary {
+
+	padding-top: 0px !important;
+
+}
+
+	 
+
+	.gm {
+
+		width:100% !important;
+
+}
+
+	.logo {
+
+	position: absolute;
+
+	/* text-align: center; */
+
+	text-align: center;
+
+	top: 0;
+
+	max-width: 187px;
+
+}
+
+
+
+.bagtr {
+
+	padding: 0;
+
+}
+
+
+
+.navStyle ul li a { text-align:left;}
+
+#book {
+
+	padding-top: 0;
+
+}
+
+
+
+.img-circle.delay-03s.animated.wow.zoomIn {
+
+	padding-top: 0px !important;
+
+}
+
+
+
+#service {
+
+	padding: 0px 0px;
+
+}
+
+.service_wrapper .col-lg-4.borderLeft {
+
+	min-height: auto;
+
+}
+
+
+
+
+
+
+
+h2, .contact_section h2 {
+
+	font-size: 28px !important;
+
+}
+
+#explore img {
+
+	padding-top: 14px;
+
+	padding-bottom: 14px;
+
+}
+
+
+
+.page_section.contact {
+
+	padding: 0px 0 0px;
+
+}
+
+
+
+.contact_details {
+
+	margin: 0 auto;
+
+	padding: 0;
+
+}
+
+ 
+
+     
+
+
+
+}
+
+ 
+
+@media (min-width:480px) and (max-width:767px) {
+
+#adults {
+	margin-bottom: 19px;
+}
+
+}
+
+
+
+@media (max-device-width:736px) and (orientation:landscape) {
+
+
+
+}
+
+
+
+@media (max-device-width:767px) and (orientation:landscape) {
+
+
+
+}
+
+
+
+@media (min-width:768px) and (max-width:960px) {
+
+
+
+}
+
+
+
+@media (min-width:768px) {
+
+
+
+}
+
+
+
+@media (min-width:1024px) {
+
+
+
+}
+
+
+
+@media (min-width:1024px) and (max-width:1366px) {
+
+
+
+}
+
+
+
+@media (min-width:960px) and (max-width:1200px) {
+
+
+
+}
+
+
+
+@media (min-width:980px) and (max-width:1200px) {
+
+
+
+}
+
+
+
+@media (min-width:1200px) {
+
+
+
+}
+

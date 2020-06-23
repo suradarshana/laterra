@@ -30,7 +30,7 @@
           </div>
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
-              <li><a href="http://www.roomansala.com/" class="scroll-link">Home</a></li>
+              <li><a href="http://www.roomansala.com/" class="scroll-link">Home1</a></li>
               <li><a href="http://www.roomansala.com/#book" class="scroll-link">About Us</a></li>
               <li><a href="http://www.roomansala.com/accommadation.php" class="scroll-link">Accommodation</a></li>
               <li><a href="http://www.roomansala.com/#dining" class="scroll-link">Dining</a></li>

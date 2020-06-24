@@ -31,6 +31,11 @@
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
               <li><a href="gallary.php" class="scroll-link">HOME</a></li>
+              <li><a href="http://www.roomansala.com/" class="scroll-link">Home1</a></li>
+              <li><a href="http://www.roomansala.com/#book" class="scroll-link">About Us</a></li>
+              <li><a href="http://www.roomansala.com/accommadation.php" class="scroll-link">Accommodation</a></li>
+              <li><a href="http://www.roomansala.com/#dining" class="scroll-link">Dining</a></li>
+              <li><a href="http://www.roomansala.com/#explore" class="scroll-link">Explore</a></li>
               <li class="active"><a href="gallary.php" class="scroll-link">Gallery</a></li>
               <li><a href="about.php" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Our Service</a></li>

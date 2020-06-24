@@ -27,12 +27,12 @@
           </div>
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
-              <li class="active"><a href="#top" class="scroll-link">Home</a></li>
-              <li><a href="#book" class="scroll-link">About Us</a></li>
+              <li class="active"><a href="index.php" class="scroll-link">Home</a></li>
+              <li><a href="about.php" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Our Service</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
-              <li><a href="#" class="scroll-link">Explore</a></li>
-              <li><a href="#" class="scroll-link">Gallery</a></li>
+              <li><a href="#" class="scroll-link">Tour</a></li>
+              <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
               <li><a href="##" class="scroll-link">Languages</a></li>
               <li><a href="##" class="scroll-link">Contact Us</a></li>
             </ul>
@@ -45,7 +45,7 @@
 
 <section id="mobileslide" class="top_cont_outer mobile">
 <div class="captiont">
-<h1><span class="inline-block typed-text" data-typed-strings="Ayubovan, Ayubovan">Ayubovan </span></h1></div>
+<h1><span class="inline-block typed-text" data-typed-strings="Ayubowan, Ayubowan">Ayubowan </span></h1></div>
   <div id="mycarousel2" class="carousel slide carousel-fade" data-ride="carousel"> 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox"> 
@@ -59,7 +59,7 @@
 
 <section id="hero_section" class="top_cont_outer destop">
 <div class="captiont">
-<h1><span class="inline-block typed-text" data-typed-strings="Ayubovan, Ayubovan">Ayubovan </span></h1></div>
+<h1><span class="inline-block typed-text" data-typed-strings="Ayubowan, Ayubowan">Ayubowan </span></h1></div>
   <div id="mycarousel" class="carousel slide carousel-fade" data-ride="carousel"> 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox"> 
@@ -109,10 +109,12 @@
               </div>
             </div>
             <div class="title">
-              <h3>Colombo</h3>
+              <h3>Package 01</h3>
             </div>
             <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+              <p>Arrivo all’aeroporto internazionale di Colombo, incontro con autista/guida e trasferimento, in auto con aria condizionata, a Anuradhapura  e sistemazione in hotel. Nel pomeriggio visita della prima capitale dello Sri Lanka oggi importante sito archeologico costituito da numerosi dagoba e dal veneratissimo albero Bo,  visita delle rovine dell’antica capitale cena e pernottamento in hotel 
+ALAKAMANDA.
+ </p>
             </div>
              <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
           </div>
@@ -125,10 +127,12 @@
               </div>
             </div>
             <div class="title">
-              <h3>Wilpathu</h3>
+              <h3>Package 02</h3>
             </div>
             <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+              <p>Arrivo all’aeroporto internazionale di Colombo, incontro con autista/guida e trasferimento, in auto con aria condizionata, a Anuradhapura arrivo sistemazione in hotel. Nel pomeriggio visita prima capitale dello Sri lanka, oggi importante sito archeologico costituito da numerosi dagoba e dal veneratissimo albero Bo e visita delle rovine dell antica capitale. cena e pernottamento in hotel.
+RANDIYA.
+ </p>
             </div>
              <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
           </div>
@@ -141,10 +145,10 @@
               </div>
             </div>
             <div class="title">
-              <h3>Sigiriya</h3>
+              <h3>Package 03</h3>
             </div>
             <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+              <p>Arrivo all’aeroporto di Colombo ore 08.25 Emirates, incontro con la guida/autista e trasferimento in auto con aria condizionata a Sigiriya sosta a Kurunagala capoluogo la provincial nord ovest si trovano maggior parte di coltivazioni di cocco. Arrivo sistemazione al Lakmini Lodge. </p>
             </div>
              <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
           </div>
@@ -159,10 +163,37 @@
               </div>
             </div>
             <div class="title">
-              <h3>Ella</h3>
+              <h3>Package 04</h3>
             </div>
             <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+              <p>Day 01 – Airport to Dambulla
+Arrival at the Bandaranaike international airport.
+Assistance on arrival by representative of our agency.
+Transfer to Dambulla and check in at hotel.
+ In the afternoon Minneriya national park safari.
+Dinner and overnight stay in Dambulla.
+<br>
+Day 02 – Sigiriya/Polonnaruwa
+In the morning visit and climb Sigiriya rock fortress.
+Then after having lunch driving to Polonnaruwa.
+After a sight seeing tour of Polonnaruwa check in at the hotel in Dambulla for dinner and overnight stay.
+<br>
+Day 03 – Dambulla to Kandy
+In the morning visit the Dambulla Rock Cave temple and proceed to Kandy.
+On the way we stopping at the spice garden and a Batik factory in Matale.
+Arrive in Kandy and check in at the hotel.
+In the afternoon visit the Temple of the Tooth Relic of Lord Buddha in Kandy.
+Dinner and overnight stay in Kandy.
+<br>
+Day 04 – Kandy/Nuwara Eliya
+In the morning visit the botanical garden and proceed to Nuwara Eliya.
+Then again coming back to the hotel in Kandy.
+<br>
+Day 05 – Kandy to Colombo
+In the morning driving to Colombo the commercial capital of Sri Lanka.
+Then the city tour in Colombo.
+In the evening driving to the airport for the depature.
+</p>
             </div>
              <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
           </div>
@@ -175,26 +206,37 @@
               </div>
             </div>
             <div class="title">
-              <h3>Nuwareliya</h3>
+              <h3>Package 05</h3>
             </div>
             <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
-            </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
-          </div>
-          <div class="col-md-4 jitem mb-md-0">
-            <div class="journeyImg">
-                <div class="hover"></div>
-              <img src="./images/hikkaduwa.jpg" width="100%">
-              <div class="jlable">
-                <span>More</span>
-              </div>
-            </div>
-            <div class="title">
-              <h3>Hikkaduwa</h3>
-            </div>
-            <div class="dist">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+              <p>Day 01 – Airport to Dambulla
+Arrival at the Bandaranaike international airport.
+Assistance on arrival by representative of our agency.
+Transfer to Dambulla and check in at hotel.
+ In the afternoon Minneriya national park safari.
+Dinner and overnight stay in Dambulla.
+<br>
+Day 02 – Sigiriya/Polonnaruwa
+In the morning visit and climb Sigiriya rock fortress.
+Then after having lunch driving to Polonnaruwa.
+After a sight seeing tour of Polonnaruwa check in at the hotel in Dambulla for dinner and overnight stay.
+<br>
+Day 03 – Dambulla to Kandy
+In the morning visit the Dambulla Rock Cave temple and proceed to Kandy.
+On the way we stopping at the spice garden and a Batik factory in Matale.
+Arrive in Kandy and check in at the hotel.
+In the afternoon visit the Temple of the Tooth Relic of Lord Buddha in Kandy.
+Dinner and overnight stay in Kandy.
+<br>
+Day 04 – Kandy/Nuwara Eliya
+In the morning visit the botanical garden and proceed to Nuwara Eliya.
+Then again coming back to the hotel in Kandy.
+<br>
+Day 05 – Kandy to Colombo
+In the morning driving to Colombo the commercial capital of Sri Lanka.
+Then the city tour in Colombo.
+In the evening driving to the airport for the depature.
+ </p>
             </div>
              <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
           </div>

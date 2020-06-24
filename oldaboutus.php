@@ -143,13 +143,22 @@ $('#mycarousel4').carousel({
 
             <div class=" delay-01s animated fadeInDown wow animated">
 
-<p>Sri Lanka offers a wide-array of rich culinary experiences to satisfy all taste buds. The diversity of our culture and people have brought together eastern and western cuisine. Our restaurant,is our main dining area.</p>
+<h4>We welcome the entire tourist to our web site.</h4>
+<p>We know which places you will find fascinating, according to your special interest, and they appreciate that the decision is yours on what you want to do. We can arrange exclusive tours by car for one or two passengers or for a family members or friends by passenger van to discover the best of Sri Lanka. You can confidently leave everything to us so your tour is enjoyable and rewarding, giving you a memorable insight into Sri Lanka.
+We have been planning bespoke tours of Sri Lanka at the request of clients. You have to mention only the places where you wish to go and how many days you are willing to spend and how many members you expecting to come with. The details witch your are informed us then we can arrange in comfort and without inconvenience tour for you.
+</p>
 
-<br><p>We offer fine dining to our guests with five course meals, set menu, and a la carte options from our in-house chef.</p>
+<br><h4>About Sri Lanka</h4>
+<p>Sri Lanka (the pearl of the Indian ocean) is Tropical country. The natural beauty of the landscape and long history stretching for more than 2500 years.
+Pearl of the Indian Ocean is still the most commonly used word to describe Sri Lanka. Visitors planning a Sri Lanka travel adventure can choose between a variety of activities from lazing on the beach to diving, and observing the wildlife to exploring ancient temples and ruins. Travel to Sri Lanka and experience an enchanting journey of discovery full of memories that will last a lifetime
+</p>
 
-<br><p>The spacious, open dining area truly take into account the surrounding natural habitat.  The greenery that surrounds Roo Mansala has crept into the interior creating the perfect harmony between nature and modern hospitality. Thus, at our dining area, our visitors are treated to a culinary and visual feast.</p>
+<br><h4>Our Services</h4>
+<p>We have indicated our web site a number of incredibly attractive places, which are very easy to visit you.
+We can arrange exclusive tours.VIP / Personal / Family or Group . We can arrange for your tour in your budget. By car for one or two passengers or for a family members or friends by passenger van to discover the best of Sri Lanka. You can confidently leave everything to us so your tour is enjoyable and rewarding, giving you a memorable insight into Sri Lanka.
+</p>
 
-<br><p>We also offer personalised dinner setups created with soft lighting and candles, for a romantic, intimate setting.</p> 
+<br>
 
   <br><br>  
 

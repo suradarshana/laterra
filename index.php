@@ -31,7 +31,7 @@
               <li><a href="about.php" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Our Service</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
-              <li><a href="#" class="scroll-link">Tour</a></li>
+              <li><a href="#tourid" class="scroll-link">Tour</a></li>
               <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
               <li><a href="##" class="scroll-link">Languages</a></li>
               <li><a href="##" class="scroll-link">Contact Us</a></li>
@@ -94,7 +94,7 @@
 </section>
 
   <!--start   journey-->
-  <section class="journey mt-5">
+  <section class="journey mt-5" id="tourid">
     <div class="container">
       <h2>Start your journey</h2>
       <h3 class="slogen mb-5">Where is your dreaming hotel <strong>location</strong> at ...</h3>
@@ -105,7 +105,7 @@
               <div class="hover"></div>
               <img src="./images/colombo.jpg" width="100%">
               <div class="jlable">
-                <span>More</span>
+                <a href="tour1"><span>More</span></a>
               </div>
             </div>
             <div class="title">
@@ -116,14 +116,14 @@
 ALAKAMANDA.
  </p>
             </div>
-          <div class="vall"><a href="#">View all Details</a></div>
+          <div class="vall"><a href="tour1">View all Details</a></div>
           </div>
           <div class="col-md-4 jitem">
             <div class="journeyImg">
                 <div class="hover"></div>
               <img src="./images/wilpattu.jpg" width="100%">
               <div class="jlable">
-                <span>More</span>
+              <a href="tour2"><span>More</span></a>
               </div>
             </div>
             <div class="title">
@@ -134,14 +134,14 @@ ALAKAMANDA.
 RANDIYA.
  </p>
             </div>
-             <div class="vall"><a href="#">View all Details</a></div>
+             <div class="vall"><a href="tour2">View all Details</a></div>
           </div>
           <div class="col-md-4 jitem">
             <div class="journeyImg">
                 <div class="hover"></div>
               <img src="./images/sigiriya.jpg" width="100%">
               <div class="jlable">
-                <span>More</span>
+              <a href="tour3"><span>More</span></a>
               </div>
             </div>
             <div class="title">
@@ -150,7 +150,7 @@ RANDIYA.
             <div class="dist">
               <p>Arrivo all’aeroporto di Colombo ore 08.25 Emirates, incontro con la guida/autista e trasferimento in auto con aria condizionata a Sigiriya sosta a Kurunagala capoluogo la provincial nord ovest si trovano maggior parte di coltivazioni di cocco. Arrivo sistemazione al Lakmini Lodge. </p>
             </div>
-            <div class="vall"><a href="#">View all Details</a></div> 
+            <div class="vall"><a href="tour3">View all Details</a></div> 
           </div>
         </div>
         <div class="row">
@@ -159,7 +159,7 @@ RANDIYA.
                 <div class="hover"></div>
               <img src="./images/ella.jpg" width="100%">
               <div class="jlable">
-                <span>More</span>
+              <a href="tour4"><span>More</span></a>
               </div>
             </div>
             <div class="title">
@@ -174,14 +174,14 @@ Transfer to Dambulla and check in at hotel.<br>
 Dinner and overnight stay in Dambulla.</p>
 
             </div>
-          <div class="vall"><a href="#">View all Details</a></div> 
+          <div class="vall"><a href="tour4">View all Details</a></div> 
           </div>
           <div class="col-md-4 jitem mb-md-0">
             <div class="journeyImg">
                 <div class="hover"></div>
               <img src="./images/nuwaraeliya.jpg" width="100%">
               <div class="jlable">
-                <span>More</span>
+              <a href="tour5"><span>More</span></a>
               </div>
             </div>
             <div class="title">
@@ -196,7 +196,7 @@ Transfer to Dambulla and check in at hotel.<br>
 Dinner and overnight stay in Dambulla.<br>
  </p>
             </div>
-              <div class="vall"><a href="#">View all Details</a></div> 
+              <div class="vall"><a href="tour5">View all Details</a></div> 
           </div>
         </div>
       </div>

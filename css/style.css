@@ -180,7 +180,7 @@
 }
 
 .journey .journeyGrid .jitem .title h3 {
-    font-family: 'Montserrat';
+   /* font-family: 'Montserrat';*/
     font-weight: 600;
     font-size: 25px;
     letter-spacing: 1.5px;
@@ -213,19 +213,16 @@
 
 .journey .journeyGrid .jitem .vall {
     margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 500;
 }
 
-@media (min-width: 992px) {
-    .journey .journeyGrid .jitem .vall {
-        margin-top: 42px;
-    }
-}
+
 
 .journey .journeyGrid .jitem .vall a {
     text-decoration: none;
     color: #d6a34f;
-    font-size: 19px;
-    font-family: 'Montserrat';
+    font-size: 16px;
     font-weight: 600;
 }
 

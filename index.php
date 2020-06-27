@@ -116,7 +116,7 @@
 ALAKAMANDA.
  </p>
             </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
+          <div class="vall"><a href="#">View all Details</a></div>
           </div>
           <div class="col-md-4 jitem">
             <div class="journeyImg">
@@ -134,7 +134,7 @@ ALAKAMANDA.
 RANDIYA.
  </p>
             </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
+             <div class="vall"><a href="#">View all Details</a></div>
           </div>
           <div class="col-md-4 jitem">
             <div class="journeyImg">
@@ -150,7 +150,7 @@ RANDIYA.
             <div class="dist">
               <p>Arrivo all’aeroporto di Colombo ore 08.25 Emirates, incontro con la guida/autista e trasferimento in auto con aria condizionata a Sigiriya sosta a Kurunagala capoluogo la provincial nord ovest si trovano maggior parte di coltivazioni di cocco. Arrivo sistemazione al Lakmini Lodge. </p>
             </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
+            <div class="vall"><a href="#">View all Details</a></div> 
           </div>
         </div>
         <div class="row">
@@ -166,36 +166,15 @@ RANDIYA.
               <h3>Package 04</h3>
             </div>
             <div class="dist">
-              <p>Day 01 – Airport to Dambulla
-Arrival at the Bandaranaike international airport.
-Assistance on arrival by representative of our agency.
-Transfer to Dambulla and check in at hotel.
- In the afternoon Minneriya national park safari.
-Dinner and overnight stay in Dambulla.
-<br>
-Day 02 – Sigiriya/Polonnaruwa
-In the morning visit and climb Sigiriya rock fortress.
-Then after having lunch driving to Polonnaruwa.
-After a sight seeing tour of Polonnaruwa check in at the hotel in Dambulla for dinner and overnight stay.
-<br>
-Day 03 – Dambulla to Kandy
-In the morning visit the Dambulla Rock Cave temple and proceed to Kandy.
-On the way we stopping at the spice garden and a Batik factory in Matale.
-Arrive in Kandy and check in at the hotel.
-In the afternoon visit the Temple of the Tooth Relic of Lord Buddha in Kandy.
-Dinner and overnight stay in Kandy.
-<br>
-Day 04 – Kandy/Nuwara Eliya
-In the morning visit the botanical garden and proceed to Nuwara Eliya.
-Then again coming back to the hotel in Kandy.
-<br>
-Day 05 – Kandy to Colombo
-In the morning driving to Colombo the commercial capital of Sri Lanka.
-Then the city tour in Colombo.
-In the evening driving to the airport for the depature.
-</p>
+              <p>Day 01 – Airport to Dambulla<br>
+Arrival at the Bandaranaike international airport.<br>
+Assistance on arrival by representative of our agency.<br>
+Transfer to Dambulla and check in at hotel.<br>
+ In the afternoon Minneriya national park safari.<br>
+Dinner and overnight stay in Dambulla.</p>
+
             </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
+          <div class="vall"><a href="#">View all Details</a></div> 
           </div>
           <div class="col-md-4 jitem mb-md-0">
             <div class="journeyImg">
@@ -209,36 +188,15 @@ In the evening driving to the airport for the depature.
               <h3>Package 05</h3>
             </div>
             <div class="dist">
-              <p>Day 01 – Airport to Dambulla
-Arrival at the Bandaranaike international airport.
-Assistance on arrival by representative of our agency.
-Transfer to Dambulla and check in at hotel.
- In the afternoon Minneriya national park safari.
-Dinner and overnight stay in Dambulla.
-<br>
-Day 02 – Sigiriya/Polonnaruwa
-In the morning visit and climb Sigiriya rock fortress.
-Then after having lunch driving to Polonnaruwa.
-After a sight seeing tour of Polonnaruwa check in at the hotel in Dambulla for dinner and overnight stay.
-<br>
-Day 03 – Dambulla to Kandy
-In the morning visit the Dambulla Rock Cave temple and proceed to Kandy.
-On the way we stopping at the spice garden and a Batik factory in Matale.
-Arrive in Kandy and check in at the hotel.
-In the afternoon visit the Temple of the Tooth Relic of Lord Buddha in Kandy.
-Dinner and overnight stay in Kandy.
-<br>
-Day 04 – Kandy/Nuwara Eliya
-In the morning visit the botanical garden and proceed to Nuwara Eliya.
-Then again coming back to the hotel in Kandy.
-<br>
-Day 05 – Kandy to Colombo
-In the morning driving to Colombo the commercial capital of Sri Lanka.
-Then the city tour in Colombo.
-In the evening driving to the airport for the depature.
+              <p>Day 01 – Airport to Dambulla<br>
+Arrival at the Bandaranaike international airport.<br>
+Assistance on arrival by representative of our agency.<br>
+Transfer to Dambulla and check in at hotel.<br>
+ In the afternoon Minneriya national park safari.<br>
+Dinner and overnight stay in Dambulla.<br>
  </p>
             </div>
-             <!-- <div class="vall"><a href="#">View all Hotels</a></div> -->
+              <div class="vall"><a href="#">View all Details</a></div> 
           </div>
         </div>
       </div>

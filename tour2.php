@@ -29,7 +29,6 @@
             <ul class="nav navbar-nav" id="mainNav">
               <li><a href="index.php" class="scroll-link">HOME</a></li>
               <li><a href="index.php" class="scroll-link">About Us</a></li>
-              <li><a href="#" class="scroll-link">Our Service</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
               <li class="active"><a href="#" class="scroll-link">Tour</a></li>
               <li><a href="gallery.php" class="scroll-link">Gallery</a></li>

@@ -28,10 +28,9 @@
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
               <li><a href="index.php" class="scroll-link">HOME</a></li>
-              <li class="active"><a href="about.php" class="scroll-link">About Us</a></li>
-              <li><a href="#" class="scroll-link">Our Service</a></li>
+              <li class="active"><a href="about.php#tourid" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
-              <li><a href="#" class="scroll-link">Tour</a></li>
+              <li><a href="#tourid" class="scroll-link">Tour</a></li>
               <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
               <li><a href="##" class="scroll-link">Languages</a></li>
               <li><a href="##" class="scroll-link">Contact Us</a></li>

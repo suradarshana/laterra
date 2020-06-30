@@ -10,6 +10,8 @@
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 <link href="css/animate.css" rel="stylesheet" type="text/css">
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
+
+
 </head>
 <body id="top" class="elepent">
 <header id="header_wrapper">
@@ -27,13 +29,13 @@
           </div>
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
-              <li class="active"><a href="index.php#tourid" class="scroll-link">Home</a></li>
-              <li><a href="about.php" class="scroll-link">About Us</a></li>🛎
+              <li class="active"><a href="index.php" class="scroll-link">Home</a></li>
+              <li><a href="about.php" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
               <li><a href="#tourid" class="scroll-link">Tour</a></li>
               <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
-              <li><a href="##" class="scroll-link">Languages</a></li>
-              <li><a href="##" class="scroll-link">Contact Us</a></li>
+              <li><a href="#contact" class="scroll-link">Contact Us</a></li>
+              <li> <?php include "nav.php"; ?></li>
             </ul>
           </div>
         </nav>
@@ -230,6 +232,10 @@ Dinner and overnight stay in Dambulla.<br>
         </div>
     </div>
 </div>
-<?php include 'footer.php';?>
+<?php
+
+ include 'footer.php';
+ 
+ ?>
 <script  type="text/javascript"  src="./js/scripts.js"></script>
 <script  type="text/javascript"  src="./js/typed.min.js"></script>

@@ -30,10 +30,10 @@
               <li><a href="index.php" class="scroll-link">HOME</a></li>
               <li><a href="about.php" class="scroll-link">About Us</a></li>
               <li><a href="#" class="scroll-link">Hotels</a></li>
-              <li><a href="#tourid" class="scroll-link">Tour</a></li>
-              <li class="active"><a href="gallery.php#tourid" class="scroll-link">Gallery</a></li>
-              <li><a href="##" class="scroll-link">Languages</a></li>
+              <li><a href="index.php#tourid" class="scroll-link">Tour</a></li>
+              <li class="active"><a href="gallery.php" class="scroll-link">Gallery</a></li>
               <li><a href="##" class="scroll-link">Contact Us</a></li>
+              <li> <?php include "nav.php"; ?></li>
             </ul>
           </div>
         </nav>
@@ -105,6 +105,200 @@
                 .portfolio.cliant.clearfix {
                     clear: both
                 }
+
+                #filters {
+
+margin-top: 10px;
+
+margin-bottom: 40px;
+
+text-align: center;
+
+display: block;
+
+float: none;
+
+z-index: 2;
+
+position: relative;
+
+}
+
+
+
+#filters ul li {
+
+display: inline-block;
+
+margin: 0 5px;
+
+}
+
+
+
+#filters ul li a {
+
+display: block;
+
+}
+
+
+
+#filters ul li a h5 {
+
+background: none repeat scroll 0 0 #f7f7f7;
+
+display: inline-block;
+
+
+
+font-size: 12px;
+
+line-height: 20px;
+
+margin-bottom: 5px;
+
+padding: 10px 22px;
+
+/*text-transform: uppercase;*/
+
+transition: all 0.3s ease-in-out 0s;
+
+background: #fff;
+
+border: #C2C2C2 solid 1px;
+
+color: #7C7C7C;
+
+}
+
+
+
+#filters ul li a:hover h5,
+#filters ul li a.active h5 {
+
+background: #fff;
+
+color: #AE2727;
+
+text-decoration: none;
+
+border: #AE2727 solid 1px;
+
+}
+
+#filters ul {
+
+padding-left: 0px;
+
+}
+
+
+
+#filters {
+  margin: 1%;
+  padding: 0;
+  list-style: none;
+}
+
+#filters li {
+  float: left;
+}
+
+
+#filters li span {
+  display: block;
+  padding: 5px 20px;
+  text-decoration: none;
+  color: #666;
+  cursor: pointer;
+}
+
+#filters li span.active {
+  background: #e95a44;
+  color: #fff;
+}
+
+
+
+#portfoliolist .portfolio {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  width: 23%;
+  margin: 1%;
+  display: none;
+  float: left;
+  overflow: hidden;
+}
+
+.portfolio-wrapper {
+  overflow: hidden;
+  position: relative !important;
+  background: #666;
+  cursor: pointer;
+}
+
+.portfolio img {
+  max-width: 100%;
+  position: relative;
+  top: 0;
+  -webkit-transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.portfolio .label {
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  bottom: -40px;
+  -webkit-transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.portfolio .label-bg {
+  background: #e95a44;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .label-text {
+  color: #fff;
+  position: relative;
+  z-index: 500;
+  padding: 5px 8px;
+}
+
+.portfolio .text-category {
+  display: block;
+  font-size: 9px;
+}
+
+.portfolio:hover .label {
+  bottom: 0;
+}
+
+.portfolio:hover img {
+  /*top:-30px;*/
+  /*	transition: transform .2s;
+	max-width:400px;
+	width: 400px;
+    height: 225px;*/
+}
+
+@media only screen and (max-width: 767px) {
+  .container {
+    width: 95%;
+  }
+
+  #portfoliolist .portfolio {
+    width: 48%;
+    margin: 1%;
+  }
+}
             </style>
             <div class="container">
                 <br>
@@ -114,91 +308,91 @@
                     <li><span class="filter active" data-filter=".rel">Religious places</span></li>
                     <li><span class="filter" data-filter=".inter">Interesting places</span></li>
                     <li><span class="filter" data-filter=".wild">Wild life</span></li>
-                    <li><span class="filter" data-filter=".cliant">Our Happy Clients</span></li>
+                   <!--  <li><span class="filter" data-filter=".cliant">Our Happy Clients</span></li> -->
                 </ul>
                 <div id="portfoliolist">
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25201.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25202.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25203.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25204.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25205.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25206.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25207.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25208.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%25209.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252010.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252011.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252012.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252013.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252014.jpg" alt=""></div>
-                    <div class="portfolio rel clearfix" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252015.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252016.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252017.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252018.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252019.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252020.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252021.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252022.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252023.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252024.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252025.jpg" alt=""></div>
-                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="Go%20Big%20Journey_files/p%252026.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25201.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25202.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25203.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25204.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25205.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25206.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25207.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25208.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%25209.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252010.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252011.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252012.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252013.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252014.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252015.jpg" alt=""></div>
-                    <div class="portfolio inter" data-cat="inter"> <img src="Go%20Big%20Journey_files/i%252016.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25201.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25202.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25203.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25204.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25205.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25206.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25207.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25208.jpg" alt=""></div>
-                    <div class="portfolio wild clearfix" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%25209.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%252010.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%252011.jpg" alt=""></div>
-                    <div class="portfolio wild" data-cat="wild"> <img src="Go%20Big%20Journey_files/w%252012.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25201.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25202.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25203.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25204.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25205.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25206.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25207.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25208.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%25209.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252010.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252011.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252012.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252013.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252014.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252015.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252016.jpg" alt=""></div>
-                    <div class="portfolio cliant clearfix" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252017.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252018.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252019.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252020.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252021.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252022.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252023.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252024.jpg" alt=""></div>
-                    <div class="portfolio cliant clearfix" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252025.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252026.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252027.jpg" alt=""></div>
-                    <div class="portfolio cliant" data-cat="cliant"> <img src="Go%20Big%20Journey_files/c%252028.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25201.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25202.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25203.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25204.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25205.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25206.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25207.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25208.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%25209.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252010.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252011.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252012.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252013.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252014.jpg" alt=""></div>
+                    <div class="portfolio rel clearfix" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252015.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252016.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252017.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252018.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252019.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252020.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252021.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252022.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252023.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252024.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252025.jpg" alt=""></div>
+                    <div class="portfolio rel" data-cat="rel" style="display: inline-block;" data-bound=""> <img src="img/gallary/p%252026.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25201.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25202.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25203.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25204.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25205.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25206.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25207.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25208.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%25209.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252010.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252011.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252012.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252013.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252014.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252015.jpg" alt=""></div>
+                    <div class="portfolio inter" data-cat="inter"> <img src="img/gallary/i%252016.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25201.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25202.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25203.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25204.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25205.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25206.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25207.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%25208.jpg" alt=""></div>
+                    <div class="portfolio wild clearfix" data-cat="wild"> <img src="img/gallary/w%25209.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%252010.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%252011.jpg" alt=""></div>
+                    <div class="portfolio wild" data-cat="wild"> <img src="img/gallary/w%252012.jpg" alt=""></div>
+                   <!--  <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25201.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25202.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25203.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25204.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25205.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25206.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25207.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25208.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%25209.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252010.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252011.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252012.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252013.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252014.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252015.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252016.jpg" alt=""></div>
+                    <div class="portfolio cliant clearfix" data-cat="cliant"> <img src="img/gallary/c%252017.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252018.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252019.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252020.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252021.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252022.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252023.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252024.jpg" alt=""></div>
+                    <div class="portfolio cliant clearfix" data-cat="cliant"> <img src="img/gallary/c%252025.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252026.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252027.jpg" alt=""></div>
+                    <div class="portfolio cliant" data-cat="cliant"> <img src="img/gallary/c%252028.jpg" alt=""></div> -->
                 </div>
             </div>
         </section>
@@ -206,3 +400,14 @@
 <?php include 'footer.php';?>
 <script  type="text/javascript"  src="./js/scripts.js"></script>
 <script  type="text/javascript"  src="./js/typed.min.js"></script>
+
+<script type="text/javascript" src="./js/jquery-1.js"></script> 
+<script type="text/javascript" src="./js/jquery_004.js" class="containerScripts"></script>
+<script type="text/javascript" class="containerScripts">
+	$(function () {
+		var filterList = {init: function () {
+			$('#portfoliolist').mixItUp({selectors: {target: '.portfolio', filter: '.filter'}, load: {filter: '.rel'}});
+		}};
+		filterList.init();
+	});
+</script>

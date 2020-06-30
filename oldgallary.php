@@ -37,7 +37,7 @@
               <li><a href="#" class="scroll-link">Hotels</a></li>
               <li><a href="#" class="scroll-link">Tour</a></li>
               <li><a href="gallary.php" class="scroll-link">Gallery</a></li>
-              <li><a href="##" class="scroll-link">Languages</a></li>
+              
               <li><a href="##" class="scroll-link">Contact Us</a></li>
             </ul>
           </div>

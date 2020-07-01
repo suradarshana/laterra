@@ -8554,9 +8554,7 @@ now override the 3.3 new styles for modern browsers & apply opacity
         }
         /*
 
-   Media Queries
-
---------------------------- */
+   Media Queries --------------------------- */
         
         @media (min-width: 768px) {
             .top_cont_outer {
@@ -8615,13 +8613,13 @@ now override the 3.3 new styles for modern browsers & apply opacity
             #filters ul {
                 padding-left: 0px;
             }
-            /*
-*
-* ==========================================
-* CUSTOM UTIL CLASSES
-* ==========================================
-*
-*/
+
+        } 
+      
+            
+            /*===================HoteL start=======================*/
+
+
             /* DEMO GENERAL ============================== */
 
             
@@ -8692,10 +8690,4 @@ now override the 3.3 new styles for modern browsers & apply opacity
                 bottom: 0;
             }
 
-/*
-  *
-  * ==========================================
-  * FOR DEMO PURPOSES
-  * ==========================================
-  *
-  */
+/*===================HoteL end=======================*/

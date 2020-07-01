@@ -27,13 +27,12 @@
           </div>
           <div id="main-nav" class="collapse navbar-collapse navStyle">
             <ul class="nav navbar-nav" id="mainNav">
-            <li><a href="index.php" class="scroll-link">HOME</a></li>
+              <li><a href="index.php" class="scroll-link">HOME</a></li>
               <li><a href="about.php" class="scroll-link">About Us</a></li>
-              <li><a href="hotels.php" class="scroll-link">Hotels</a></li>
-              <li class="active"><a href="index.php#tourid" class="scroll-link">Tour</a></li>
+              <li class="active"><a href="hotels.php" class="scroll-link">Hotels</a></li>
+              <li><a href="index.php#tourid" class="scroll-link">Tour</a></li>
               <li><a href="gallery.php" class="scroll-link">Gallery</a></li>
-              
-              <li><a href="##" class="scroll-link">Contact Us</a></li>
+              <li><a href="index.php#contact" class="scroll-link">Contact Us</a></li>
               <li> <?php include "nav.php"; ?></li>
             </ul>
           </div>
@@ -95,35 +94,45 @@
 
 
 
-<section class="tour2 mt-5 mb-5">
+<section class="hotels mt-5 mb-5" id="hotels">
     <div class="container">
-    <h2>Package 02</h2>
+    <h2>Hotels</h2>
 
-<p>Arrivo all’aeroporto internazionale di Colombo, incontro con autista/guida e trasferimento, in auto con aria condizionata, a Anuradhapura arrivo sistemazione in hotel. Nel pomeriggio visita prima capitale dello Sri lanka, oggi importante sito archeologico costituito da numerosi dagoba e dal veneratissimo albero Bo e visita delle rovine dell antica capitale. cena e pernottamento in hotel.
-RANDIYA.
- </p>
-<br>
+<!-- DEMO 5 -->
+<div class="py-5">
+    <h3 class="font-weight-bold mb-0">Demo 5</h3>
+    <p class="font-italic text-muted mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+    <div class="row">
+      <!-- DEMO 5 Item-->
+      <div class="col-lg-4 mb-3 mb-lg-0">
+        <div class="hover hover-5 text-white rounded"><img src="https://res.cloudinary.com/mhmd/image/upload/v1570786269/hoverSet-10_ccl30n.jpg" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-5-content">
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Image <strong class="font-weight-bold text-white">Caption </strong><span>Colorfull</span></h3>
+          </div>
+        </div>
+      </div>
+      <!-- DEMO 5 Item-->
+      <div class="col-lg-4 mb-3 mb-lg-0">
+        <div class="hover hover-5 text-white rounded"><img src="https://res.cloudinary.com/mhmd/image/upload/v1570786269/hoverSet-10_ccl30n.jpg" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-5-content">
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Image <strong class="font-weight-bold text-white">Caption </strong><span>Colorfull</span></h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <!-- DEMO 5 Item-->
+        <div class="hover hover-5 text-white rounded"><img src="https://res.cloudinary.com/mhmd/image/upload/v1570786267/hoverSet-9_tmoukz.jpg" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-5-content">
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Image <strong class="font-weight-bold text-white">Caption </strong><span>Colorfull</span></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<p>Dopo la prima colazione partenza per Sigiriya. Lungo la strada sosta per ammirare l’ imponente statua di Buddha in Aukana. Arrivo  a Sigiriya sistemazione in hotel NICE PLACE. 
-Nel pomeriggio jeep safari al Minneriya N.P popolato da numerosi branchi di elefanti in liberta’ (facoltativo ) cena e pernottamento in hotel.
-
-</p>
-
-<br>
-<p>Prima colazione in hotel partenza per visitare Rocca di Sigiriya meraviglia unico nella storia dello Sri Lanka e famosa per gli affreschi non religoiosi risalenti al V secolo D.C. proseguimento per visitare  l’ antica capitale Polonnaruwa vasto sito archeologico in cui si possono vedere le rovine meglio conservate di tutta l’ isola rientro in hotel per cena e pernottamento al NICE PLACE.
-</p>
-
-<br>
-<p>Prima colazione in hotel partenza da Kandy arrivo a Dambulla per visitare il golden temple dove sorgono ntichi dipinti e statue di Buddha proseguimento per Kandy Lungo la strada per chi fosse interessato possibilita di assistere alla lavorazione del legno, alla lavorazione del batik o di visitare un giardino  delle spezia sistemazione hotel in HILL CREST VILLA. 
-Pomeriggio alle ore 17.00 spettacolo delle danze folkloristiche rientro in hotel cena e pernottamento in hotel.
-
-</p>
-<br>
-
-<p>Mattina dedicata alla visita di Kandy l’ ultima delle tre antiche capitali che sorge nel centro dell’ isola a 500 metri di altitudine in mezzo al verde. Citta’ sacra al culto buddista. Conserva straordinarie testimonianze del passato prima fra tutti il tempio che custodisce il Dalada Maligawa. Il reliquario in cui all’ interno 07 piccole teche d’ oro infilate una nell’ altra e’ racchiuso il ‘’sacro dente ‘’ di Buddha da secoli massimo simbolo del buddismo. Proseguimento con la visita del giardino botamico di Peradeniya. Poco fuori kandy dove si puo ammirare una vegetazione unica al mondo tra specie arboree e floreali oltre ad una serra con cinquemila orchidee.
-Pomeriggio libero cena e pernottamento in hotel HILL CREST VILLA.
-
-</p>
 </div>
 </section> 
 

@@ -8411,12 +8411,15 @@ div.mc-image {
     transition: all 0.3s;
     padding: 2rem 3rem;
     z-index: 99;
+    color: #fff;
 }
 
 .hover-5-title span {
     transition: all 0.4s;
     opacity: 0;
     color: #47c650;
+    display: block;
+    margin-top: 8px;
 }
 
 .hover-5:hover .hover-overlay {

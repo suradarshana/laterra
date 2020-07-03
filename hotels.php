@@ -118,7 +118,7 @@
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/palm-garden-village-hotel.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Palm-Garden <strong class="font-weight-bold text-white">Village Hotel </strong><span>Anuradhapura</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Palm Garden <strong class="font-weight-bold text-white">Village Hotel </strong><span>Anuradhapura</span></h3>
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-alakamanda.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Hotel<strong class="font-weight-bold text-white">Alakamanda </strong><span>Anuradhapura</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Hotel <strong class="font-weight-bold text-white">Alakamanda </strong><span>Anuradhapura</span></h3>
           </div>
         </div>
       </div>
@@ -143,7 +143,7 @@
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/forest-rock-garden-anuradhapura.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Forest-Rock <strong class="font-weight-bold text-white">Garden </strong><span>Anuradhapura</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Forest Rock <strong class="font-weight-bold text-white">Garden </strong><span>Anuradhapura</span></h3>
           </div>
         </div>
       </div>
@@ -399,7 +399,7 @@
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/190060184.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Hotel<strong class="font-weight-bold text-white">Silanmo </strong><span>Mirissa</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Hotel <strong class="font-weight-bold text-white">Silanmo </strong><span>Mirissa</span></h3>
           </div>
         </div>
       </div>

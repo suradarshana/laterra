@@ -108,12 +108,12 @@
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/gartonscape-gallery-3.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Garton's <strong class="font-weight-bold text-white">Scape</strong><span>Anuradhapura</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Garton's <strong class="font-weight-bold text-white">cape</strong><span>Anuradhapura</span></h3>
           </div>
         </div>
       </div>
 </a>
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.palmgardenvillage.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/palm-garden-village-hotel.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -122,8 +122,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://www.hotelalakamanda.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-alakamanda.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -133,12 +134,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.forestrockgarden.lk/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/forest-rock-garden-anuradhapura.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -147,7 +149,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.sadulaholidayresort.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sadula-hotel.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -156,8 +159,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://www.hotelrandiya.lk/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-randiya.webp" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -167,12 +171,13 @@
       </div>
     </div>
   </div>
+  </a>
 <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.mountainheavensella.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/ella-hotel-mountain-heavens.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -181,7 +186,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.skygreenresortella.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sky-green-resort.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -190,8 +196,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.resort98acres.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/02ab1512dea7c444e2838464487ffb47.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -201,12 +208,13 @@
       </div>
     </div>
   </div>
+  </a>
 <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="https://www.corbertsrest.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/corberts-rest.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -215,7 +223,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.oruthotachalets.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/oruthota-chalets.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -224,8 +233,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.jetwinghotels.com/jetwingjaffna#gref" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/jetwing-jaffna-exterior-1700x1000.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -235,12 +245,13 @@
       </div>
     </div>
   </div>
+  </a>
 <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.thechangehotel.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-guest-house-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -249,7 +260,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.mansion.kandy-hotels.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/de-mansion-hotel.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -258,8 +270,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://www.queenshotel.lk/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/queen's-hotel.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -269,12 +282,13 @@
       </div>
     </div>
   </div>
+  </a>
 <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.therichmondhousekandy.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-richmond-house-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -283,7 +297,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.thilankahotel.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-thilanka.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -292,6 +307,7 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
         <!-- DEMO 5 Item-->
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/chaaya citadel.jpg" alt="">
@@ -308,7 +324,7 @@
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="https://www.mahaweli.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/mahaweli-reach-hotel-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -317,7 +333,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.amayaresorts.com/amayahills/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/amaya-hills-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -326,8 +343,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.randholeeresorts.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/randolee-resort-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -337,12 +355,13 @@
       </div>
     </div>
   </div>
+  </a>
 <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://devon.kandy-hotels.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-devonkandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -351,7 +370,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.hillcrestvillakandy.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hill-crest-villa-kandy.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -360,8 +380,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://www.trioresorts.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/plantationhotel.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -371,12 +392,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="https://www.lakminilodge.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/lakmini.webp" alt="">
           <div class="hover-overlay"></div>
@@ -385,7 +407,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.soraboragedra.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sorabora-gedara-hotel-mahiyanganaya.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -394,8 +417,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://silanmo.lk/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/190060184.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -405,6 +429,7 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
@@ -419,7 +444,7 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://paradisemirissa.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/paradise-beach-club.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -428,8 +453,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://thegrandhotelnuwaraeliya.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/Grad_Hotel,_Nuwara_Eliya_(2).jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -439,12 +465,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.firs.lk/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-firs-nuwaraeliya.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -453,7 +480,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.therock.lk/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/therockhotel.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -462,8 +490,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="http://hillcot-bungalow.nuwara-eliya-hotels.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hillcot-bungalow.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -473,12 +502,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="https://www.jetwinghotels.com/jetwingstandrews/#gref" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/st andrews.jpeg" alt="">
           <div class="hover-overlay"></div>
@@ -487,7 +517,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.kassapalionsrock.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/kassapalionsrock.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -496,8 +527,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.camelliaresortspa.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/camelia resort.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -507,12 +539,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://niceplacebungalows.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/niceplacebungalow.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -521,7 +554,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://m.colomboforthotels.com/sigiriya-village/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sigiriya-villagehotel.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -530,23 +564,25 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.themeresorts.com/aliyaresort/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/aliya-resort.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
-            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Aliya<strong class="font-weight-bold text-white">Resort </strong><span>Sigiriya</span></h3>
+            <h3 class="hover-5-title text-uppercase font-weight-light mb-0">Aliya <strong class="font-weight-bold text-white">Resort </strong><span>Sigiriya</span></h3>
           </div>
         </div>
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.hibiscus-garden.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hibiscus.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -555,7 +591,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.peacockreachhotel.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/peacockreach.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -564,8 +601,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://www.cinnamonhotels.com/cinnamonwildyala" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/cinnomonwild.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -575,12 +613,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="https://www.cinnamonhotels.com/trincoblucinnamon/experiences/crab" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/chaayablu.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -589,7 +628,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="http://www.pigeonislandresort.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/pigeon-island-beach-resort.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -598,8 +638,9 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
-        <!-- DEMO 5 Item-->
+        <!-- DEMO 5 Item--><a href="https://hotelyapahuwaparadise.com/" target="_blank">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/paradiseresort-yapahuwa.jpg" alt="">
           <div class="hover-overlay"></div>
           <div class="hover-5-content">
@@ -609,12 +650,13 @@
       </div>
     </div>
   </div>
+  </a>
   <!-- DEMO 5 -->
 <div class="py-5">
     <h3 class="font-weight-bold mb-0"></h3>
     <p class="font-italic text-muted mb-4"></p>
     <div class="row">
-      <!-- DEMO 5 Item-->
+      <!-- DEMO 5 Item--><a href="http://www.sunnsea.net/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sun n sea.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -623,7 +665,8 @@
           </div>
         </div>
       </div>
-      <!-- DEMO 5 Item-->
+      </a>
+      <!-- DEMO 5 Item--><a href="https://www.unawatunabeachresort.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/beachresort.jpg" alt="">
           <div class="hover-overlay"></div>
@@ -632,6 +675,7 @@
           </div>
         </div>
       </div>
+      </a>
       <div class="col-lg-4 mb-hotel">
        
       </div>

@@ -132,14 +132,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.forestrockgarden.lk/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/forest-rock-garden-anuradhapura.jpg" alt="">
@@ -169,14 +163,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.mountainheavensella.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/ella-hotel-mountain-heavens.jpg" alt="">
@@ -206,14 +194,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="https://www.corbertsrest.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/corberts-rest.jpg" alt="">
@@ -243,14 +225,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.thechangehotel.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-guest-house-kandy.jpg" alt="">
@@ -280,14 +256,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.therichmondhousekandy.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-richmond-house-kandy.jpg" alt="">
@@ -317,13 +287,7 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="https://www.mahaweli.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/mahaweli-reach-hotel-kandy.jpg" alt="">
@@ -353,14 +317,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
 <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://devon.kandy-hotels.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hotel-devonkandy.jpg" alt="">
@@ -390,14 +348,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="https://www.lakminilodge.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/lakmini.webp" alt="">
@@ -427,14 +379,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item-->
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/giragalamirissa.jpg" alt="">
@@ -463,14 +409,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.firs.lk/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/the-firs-nuwaraeliya.jpg" alt="">
@@ -500,14 +440,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="https://www.jetwinghotels.com/jetwingstandrews/#gref" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/st andrews.jpeg" alt="">
@@ -537,14 +471,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://niceplacebungalows.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/niceplacebungalow.jpg" alt="">
@@ -574,14 +502,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.hibiscus-garden.com/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/hibiscus.jpg" alt="">
@@ -611,14 +533,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="https://www.cinnamonhotels.com/trincoblucinnamon/experiences/crab" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/chaayablu.jpg" alt="">
@@ -648,14 +564,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
   </a>
   <!-- DEMO 5 -->
-<div class="py-5">
-    <h3 class="font-weight-bold mb-0"></h3>
-    <p class="font-italic text-muted mb-4"></p>
-    <div class="row">
       <!-- DEMO 5 Item--><a href="http://www.sunnsea.net/" target="_blank">
       <div class="col-lg-4 mb-3 mb-lg-0">
         <div class="hover hover-5 text-white rounded"><img src="img/hotels/sun n sea.jpg" alt="">
@@ -677,11 +587,11 @@
       </div>
       </a>
       <div class="col-lg-4 mb-hotel">
-       
+       </div>
       </div>
     </div>
   </div>
-
+  </div>
 </div>
 </section> 
 

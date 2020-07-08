@@ -10,9 +10,9 @@ $message = $_POST["message"];
 
  
 
-$EmailTo = "info@roomansala.com";
+$EmailTo = "maheshsuradarshana@gmail.com.com";
 
-$Subject = "Roo Mansala Contact Details";
+$Subject = "LaTerra splendente Contact Details";
 
   
 
